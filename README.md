@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A machine learning project focused on predicting urban air quality, specifically Benzene (C6H6) concentrations, using Artificial Neural Networks (ANN). This project was developed as part of the Machine Learning course (SAIA 2113) at Universiti Teknologi Malaysia.
+A machine learning project focused on predicting urban air quality, specifically Benzene (C6H6) concentrations, using Multi-Layer Perceptron (MLP). This project was developed as part of the Machine Learning course (SAIA 2113) at Universiti Teknologi Malaysia.
 
 ## 📋 Table of Contents
 
