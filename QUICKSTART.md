@@ -13,7 +13,7 @@ Get started with Air Quality Prediction in 5 minutes!
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/air-quality-prediction.git
+git clone https://github.com/wanaalif/air-quality-prediction.git
 cd air-quality-prediction
 ```
 
@@ -110,9 +110,9 @@ R²: 0.993955
 ## Getting Help
 
 - **Documentation**: See [README.md](README.md)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/air-quality-prediction/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/air-quality-prediction/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/wanaalif/air-quality-prediction/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/wanaalif/air-quality-prediction/discussions)
+- **Email**: wanalifdanial03@gmail.com
 
 ## Tips for Best Results
 
