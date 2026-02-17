@@ -97,13 +97,13 @@ We welcome code contributions! Here are areas where you can help:
 
 2. **Clone your fork**:
 ```bash
-git clone https://github.com/your-username/air-quality-prediction.git
+git clone https://github.com/wanaalif/air-quality-prediction.git
 cd air-quality-prediction
 ```
 
 3. **Add upstream remote**:
 ```bash
-git remote add upstream https://github.com/original-owner/air-quality-prediction.git
+git remote add upstream https://github.com/wanaalif/air-quality-prediction.git
 ```
 
 4. **Create a virtual environment**:
@@ -140,30 +140,17 @@ git merge upstream/main
 - Add tests for new functionality
 - Update documentation as needed
 
-### 3. Test Your Changes
-
-```bash
-# Run unit tests
-pytest tests/
-
-# Run specific test file
-pytest tests/test_preprocessing.py
-
-# Check code coverage
-pytest --cov=src tests/
-```
-
-### 4. Commit Your Changes
+### 3. Commit Your Changes
 
 Follow the commit guidelines (see below)
 
-### 5. Push to Your Fork
+### 4. Push to Your Fork
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-### 6. Create a Pull Request
+### 5. Create a Pull Request
 
 Go to GitHub and create a pull request from your fork to the main repository.
 
