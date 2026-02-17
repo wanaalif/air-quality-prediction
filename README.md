@@ -138,7 +138,7 @@ Output Layer (1 unit, Linear activation)
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/air-quality-prediction.git
+git clone https://github.com/wanaalif/air-quality-prediction.git
 cd air-quality-prediction
 ```
 
@@ -264,7 +264,7 @@ Full references available in [docs/report.pdf](docs/report.pdf).
 
 For questions, suggestions, or collaborations:
 
-- **Project Repository**: [GitHub Issues](https://github.com/yourusername/air-quality-prediction/issues)
+- **Project Repository**: [GitHub Issues](https://github.com/wanaalif/air-quality-prediction/issues)
 - **Email**: [wanalifdanial03@gmail.com](mailto:wanalifdanial03@gmail,.com)
 
 ## 🔮 Future Work
